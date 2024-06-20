@@ -1,5 +1,11 @@
 # @gradio/wasm
 
+## 0.11.0
+
+### Features
+
+- [#8569](https://github.com/gradio-app/gradio/pull/8569) [`6f99a02`](https://github.com/gradio-app/gradio/commit/6f99a028ed0071e3f588076c059d19f3ff5d85f8) - Upgrade pyodide 0.26.  Thanks @whitphx!
+
 ## 0.10.1
 
 ### Fixes
